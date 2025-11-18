@@ -1,1 +1,1 @@
-Este é um proketo de estudo
+Este é um projeto de estudo
